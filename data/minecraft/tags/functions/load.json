@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "bytes:init",
+        "ints:init",
+        "sha256:init"
+    ]
+}
